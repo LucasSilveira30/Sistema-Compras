@@ -12,7 +12,7 @@ O objetivo do projeto é praticar conceitos fundamentais da linguagem Java, incl
 
 - Manipulação de listas com `ArrayList`
 - Uso da interface `List`
-- Implementação de métodos de ordenação de listas.
+- Implementação de métodos de ordenação de listas por meio da interface `Comparable`.
 - Estruturas de repetição e decisão
 - Programação orientada a objetos (POO)
 - Organização de código em classes
